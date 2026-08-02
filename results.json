@@ -1,0 +1,203 @@
+{
+  "total_jobs": 6000,
+  "da_jobs": 2856,
+  "ds_jobs": 1598,
+  "de_jobs": 1546,
+  "skills_analyzed": 20,
+  "cities_count": 8,
+  "median_salary_overall": 13.184999999999999,
+  "median_salary_da": 8.37,
+  "date_range": [
+    "2025-01-01",
+    "2025-12-28"
+  ],
+  "top5_by_role": {
+    "Data Analyst": [
+      {
+        "job_skill": "PowerPoint",
+        "skill_percent": 33.0
+      },
+      {
+        "job_skill": "Power BI",
+        "skill_percent": 38.1
+      },
+      {
+        "job_skill": "Python",
+        "skill_percent": 41.4
+      },
+      {
+        "job_skill": "SQL",
+        "skill_percent": 71.9
+      },
+      {
+        "job_skill": "Excel",
+        "skill_percent": 73.6
+      }
+    ],
+    "Data Scientist": [
+      {
+        "job_skill": "Git",
+        "skill_percent": 23.4
+      },
+      {
+        "job_skill": "AWS",
+        "skill_percent": 26.7
+      },
+      {
+        "job_skill": "R",
+        "skill_percent": 30.2
+      },
+      {
+        "job_skill": "SQL",
+        "skill_percent": 65.1
+      },
+      {
+        "job_skill": "Python",
+        "skill_percent": 81.9
+      }
+    ],
+    "Data Engineer": [
+      {
+        "job_skill": "Azure",
+        "skill_percent": 31.0
+      },
+      {
+        "job_skill": "AWS",
+        "skill_percent": 36.1
+      },
+      {
+        "job_skill": "Spark",
+        "skill_percent": 44.6
+      },
+      {
+        "job_skill": "SQL",
+        "skill_percent": 66.2
+      },
+      {
+        "job_skill": "Python",
+        "skill_percent": 75.2
+      }
+    ]
+  },
+  "da_skill_trend_start_end": {
+    "Excel": {
+      "jan": 66.3,
+      "dec": 91.0
+    },
+    "SQL": {
+      "jan": 70.9,
+      "dec": 74.1
+    },
+    "Python": {
+      "jan": 41.4,
+      "dec": 41.6
+    },
+    "Power BI": {
+      "jan": 40.6,
+      "dec": 33.7
+    },
+    "PowerPoint": {
+      "jan": 30.7,
+      "dec": 31.9
+    }
+  },
+  "salary_by_role": {
+    "Data Analyst": 8.37,
+    "Data Engineer": 20.92,
+    "Data Scientist": 18.9
+  },
+  "top_pay_skills": {
+    "Oracle": 10.4,
+    "R": 9.81,
+    "SQL Server": 9.78,
+    "Python": 9.68,
+    "SAS": 9.63,
+    "Tableau": 8.99,
+    "Git": 8.99,
+    "Power BI": 8.81,
+    "SQL": 8.41,
+    "Excel": 8.1
+  },
+  "top_demand_skills": {
+    "Excel": 2101,
+    "SQL": 2054,
+    "Python": 1182,
+    "Power BI": 1087,
+    "PowerPoint": 943,
+    "Tableau": 917,
+    "SQL Server": 444,
+    "R": 393,
+    "Git": 282,
+    "SAS": 257
+  },
+  "city_salary_da": {
+    "Bengaluru": 8.93,
+    "Mumbai": 8.87,
+    "Delhi NCR": 8.51,
+    "Hyderabad": 8.45,
+    "Pune": 8.0,
+    "Chennai": 7.53,
+    "Ahmedabad": 6.95,
+    "Kolkata": 6.32
+  },
+  "city_job_counts": {
+    "Bengaluru": 778,
+    "Hyderabad": 510,
+    "Delhi NCR": 403,
+    "Mumbai": 367,
+    "Pune": 353,
+    "Chennai": 267,
+    "Kolkata": 99,
+    "Ahmedabad": 79
+  },
+  "optimal_skills": [
+    {
+      "job_skill": "R",
+      "skill_percent": 13.76,
+      "median_salary": 9.81,
+      "technology": "Programming"
+    },
+    {
+      "job_skill": "SQL Server",
+      "skill_percent": 15.55,
+      "median_salary": 9.78,
+      "technology": "Database"
+    },
+    {
+      "job_skill": "Python",
+      "skill_percent": 41.39,
+      "median_salary": 9.68,
+      "technology": "Programming"
+    },
+    {
+      "job_skill": "Tableau",
+      "skill_percent": 32.11,
+      "median_salary": 8.99,
+      "technology": "Analyst Tool"
+    },
+    {
+      "job_skill": "Power BI",
+      "skill_percent": 38.06,
+      "median_salary": 8.81,
+      "technology": "Analyst Tool"
+    },
+    {
+      "job_skill": "SQL",
+      "skill_percent": 71.92,
+      "median_salary": 8.41,
+      "technology": "Analyst Tool"
+    },
+    {
+      "job_skill": "Excel",
+      "skill_percent": 73.56,
+      "median_salary": 8.1,
+      "technology": "Analyst Tool"
+    },
+    {
+      "job_skill": "PowerPoint",
+      "skill_percent": 33.02,
+      "median_salary": 7.82,
+      "technology": "Analyst Tool"
+    }
+  ]
+}
